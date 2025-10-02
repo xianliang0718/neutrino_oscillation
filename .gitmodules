@@ -1,0 +1,3 @@
+[submodule "nuSQuIDS"]
+	path = nuSQuIDS
+	url = https://github.com/arguelles/nuSQuIDS.git
